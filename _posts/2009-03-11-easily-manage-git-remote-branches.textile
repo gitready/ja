@@ -5,7 +5,7 @@ title: 簡単にリモートブランチを管理しよう
 category: advanced
 ---
 
-"リモートブランチのチェックアウト":http://gitready.com/intermediate/2009/01/09/checkout-remote-tracked-branch.html、 "ブランチの削除":http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html、そして新しいブランチのパブリッシュなどは、Gitユーザーにとっては日常的に行われることです。しかし、誰が*そんなに*タイプしたいでしょうか？私は本当に嫌ですし、あなたもそんなにタイプする必要はありません。
+"リモートブランチのチェックアウト":http://gitready.com/intermediate/2009/01/09/checkout-remote-tracked-branch.html 、 "ブランチの削除":http://gitready.com/beginner/2009/02/02/push-and-delete-branches.html、そして新しいブランチのパブリッシュなどは、Gitユーザーにとっては日常的に行われることです。しかし、誰が*そんなに*タイプしたいでしょうか？私は本当に嫌ですし、あなたもそんなにタイプする必要はありません。
 
 その為に、"git_remote_branch":http://grb.rubyforge.org/, 役立つ"RubyGem":http://rubygems.org を試してみてください。リモートブランチを扱う上での雑用的なタスクを簡素化する為の、新しい実行ファイルをインストールします。これらがいくつかのコマンドの例です。
 
